@@ -1,0 +1,7 @@
+Git is a distributed version control system used to track changes in files.
+
+GitHub is an online platform that hosts Git repositories and provides tools
+for collaboration and project management.
+
+Git helps developers manage different versions of their projects and keep
+a history of changes.

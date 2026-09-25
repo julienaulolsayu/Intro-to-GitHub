@@ -1,0 +1,19 @@
+Basic Git Commands
+
+git init
+Creates a new Git repository.
+
+git clone
+Copies a repository from GitHub to a local computer.
+
+git add
+Stages changes for the next commit.
+
+git commit
+Records staged changes in the repository.
+
+git push
+Uploads local commits to GitHub.
+
+git pull
+Downloads changes from a remote repository.

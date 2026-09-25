@@ -5,7 +5,7 @@ dozen = 12
 
 print("     Welcome to Dizon Farm")
 print("---------------------------------")
-num_of_eggs = int(input("Enter the number of eggs: "))
+num_of_eggs = int(input("Enter your preffered number of eggs: "))
 print("---------------------------------")
 
 print(f"You ordered {num_of_eggs} eggs")
@@ -18,4 +18,4 @@ print(f"No. of loose eggs: {loose_egg} at Php 4.75 each")
 
 total_amount = (loose_egg * loose_price ) + (num_of_dozen * dozen_price)
 
-print(f"Your total amount due is {total_amount}")
+print(f"Your total amount to pay is {total_amount}")
